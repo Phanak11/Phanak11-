@@ -10601,6 +10601,8 @@ blockquote {
 }
 #mainNav .navbar-brand {
   font-weight: 800;
+  color: #ff006e !important;
+}
 }
 #mainNav .navbar-toggler {
   font-size: 0.75rem;
