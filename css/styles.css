@@ -10601,6 +10601,7 @@ blockquote {
 }
 #mainNav {
   background-color: #240046 !important;
+  border-bottom: 3px solid #ff006e;
 }
 
 #mainNav .navbar-brand {
