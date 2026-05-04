@@ -10599,10 +10599,14 @@ blockquote {
   background-color: #fff;
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-#mainNav .navbar-brand {
-  font-weight: 800;
-  color: #ff006e !important;
+#mainNav {
+  background-color: #240046 !important;
 }
+
+#mainNav .navbar-brand {
+  color: white !important;
+  font-weight: 800;
+  letter-spacing: 1px;
 }
 #mainNav .navbar-toggler {
   font-size: 0.75rem;
