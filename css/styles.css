@@ -10808,3 +10808,26 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+.project-section {
+  background: white;
+  padding: 25px;
+  margin-bottom: 35px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.project-section h2 {
+  color: #240046;
+  margin-bottom: 15px;
+}
+
+.project-section p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 10px;
+  margin: 15px 0 20px 0;
+}
